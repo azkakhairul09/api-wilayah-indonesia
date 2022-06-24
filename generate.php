@@ -1,7 +1,7 @@
 <?php
 
-use Emsifa\ApiWilayah\Generator;
-use Emsifa\ApiWilayah\Repository;
+use Azkakhairul09\ApiWilayah\Generator;
+use Azkakhairul09\ApiWilayah\Repository;
 
 require "vendor/autoload.php";
 
